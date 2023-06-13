@@ -6,8 +6,8 @@ As we know stack up bounty is something different, here the task is to build two
 
 The features I have added are: - 
 
-a. Share 
-b. Search 
+a. Share,  
+b. Search,  
 c. Recycle Bin 
 
 
